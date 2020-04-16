@@ -7,5 +7,7 @@
 <VBox xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/11.0.1">
    <children>
       <TextField text="Marwan Bushara" />
+        <TextField text="Eleia Farah" />
    </children>
+   
 </VBox>
